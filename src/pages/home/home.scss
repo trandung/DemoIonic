@@ -1,0 +1,16 @@
+page-home {
+	
+	h2{
+		color: green;
+		border-left-color: blue;
+	}
+	&:hover {
+		color: #fff;
+		border-left-color: #fff;			
+	}
+
+	img {
+			border-radius: 10px;
+			box-shadow: 5px 5px 5px grey;
+		}
+}
